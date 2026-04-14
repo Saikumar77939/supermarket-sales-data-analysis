@@ -1,4 +1,5 @@
 Supermarket Sales Dashboard
+
 An interactive sales analytics dashboard built using Streamlit, Plotly, and Prophet, designed to analyze and visualize supermarket sales data. This project includes filtering, KPI metrics, product trends, customer segmentation, and future sales forecasting.
 
 Features
